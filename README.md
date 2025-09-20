@@ -1,4 +1,4 @@
-# (Intermediate) An inventory Data Analysis
+# (Intermediate) Inventory Data Analysis
 ### An intermediate data inventory analysis project based on SAP public data.
 
 
@@ -52,7 +52,8 @@ Velotics Inc. produces bikes in the follwowing lines/ ranges:
 <img width="782" height="456" alt="Products" src="https://github.com/user-attachments/assets/56297518-d148-46cc-bd87-dab71b0e18ec" />
 
 
-
+ *As pictured, Velotics produces racing bikes, mountain bikes, cruise bikes, youth bikes, e-bikes and an in home exercise bike.
+ All of these bikes have corresponding model numbers and encomapss ranges in competitive bicycle market segmets*
 
 
 

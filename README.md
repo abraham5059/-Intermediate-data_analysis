@@ -1,5 +1,5 @@
 # (Intermediate) An inventory Data Analysis
-### An intermediate data analysis and data management project based on SAP public data.
+### An intermediate data inventory analysis project based on SAP public data.
 
 
 
@@ -9,12 +9,28 @@
 
 ### Synopsis:
 
+  Run a basic inventory analysis for a fictional bicycle company (Velotics Inc.) using SAP to run inventory
+  and form a Data Analysis to present for upper management (i.e. the company buyer and CEO). This analysis
+  will convey inventory in the folling order;
+  - Data Sources
+  - tools
+  - Enterprise Explanation
+  - Data Procurement
+  - Reporting
+  - Data Visualization & Dashboard
+  - Presentation & Analysis
+
+
+
 ### Data Sources:
-The primary data source is 
+The primary data source is SAP S/4HANA Cloud Public Edition 14-Day Free Trial which is accessible via
+website link: https://www.sap.com/products/erp/s4hana/trial.html
+
 
 ### Tools
-- SAP 2/4HANA Cloud (Public Edition) - Data Procurement
+- SAP S/4HANA Cloud (Public Edition) - Data Procurement
 - Microsoft Excel - Data Conversion & Data cleaning
+- SAP S/4HANA Cloud -  Reporing
 - Microsoft Excel - Reporting
 - Tableau - Data Visualization & Dashboard
 - Mac Keynote - Presentation
@@ -22,7 +38,30 @@ The primary data source is
 
 
 
+### Enterprise Concept:
+
+  <img width="814" height="407" alt="Velotics Inc  Busines Entitiy Visual" src="https://github.com/user-attachments/assets/15c119ee-dc42-4d3b-9931-4df7e0ba6c46" />
+
+  The illustation above provides the enterprise concept as it exists in a fictional entity. Velotics Inc. utilizes a ERP (Enterprise
+Respurce Planning) system, which in this case uses SAP to organize the businesses functions. We will use this ERP to produce an
+inventory report and analysis to help the company buyer know what inventory levels are. Therfore, the inventory report will guide 
+the buyer and other related upper managment to better strategize product inventory and or sales targets.
+
+
+Velotics Inc. produces bikes in the follwowing lines/ ranges:
+<img width="782" height="456" alt="Products" src="https://github.com/user-attachments/assets/56297518-d148-46cc-bd87-dab71b0e18ec" />
+
+
+
+
+
+
+
 ### Data Procurement:
+
+
+
+
   
 
 

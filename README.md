@@ -60,9 +60,19 @@ Velotics Inc. produces bikes in the follwowing lines/ ranges:
 
 ### Data Procurement:
 
+To find, collect and consilidate all the KPI's needed for the inventory report. I first access SAP using my credentials to run
+a live inventory based on single material (i.e. finished product) stock. the following SAP hompage is shown :
+
+
+<img width="1296" height="842" alt="SAP Velotics Hompage" src="https://github.com/user-attachments/assets/3aee8840-710f-4eb1-bc6b-e224e16d1d75" />
+
+*Next, I navigate the homepage to Manufacturing & Supply Chain to access the correct fiori Launchpad*
 
 
 
+
+
+*Lastly, I then query the 
   
 
 

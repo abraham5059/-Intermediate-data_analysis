@@ -66,8 +66,12 @@ a live inventory based on single material (i.e. finished product) stock. the fol
 
 <img width="1296" height="842" alt="SAP Velotics Hompage" src="https://github.com/user-attachments/assets/3aee8840-710f-4eb1-bc6b-e224e16d1d75" />
 
-*Next, I navigate the homepage to Manufacturing & Supply Chain to access the correct fiori Launchpad*
+Next, I navigate the homepage to Manufacturing & Supply Chain to access the correct fiori Launchpad. The navigation to run inventory
+is as follows:
+  `Manufacturing & Supply Chain > Warehouse Management > Stock *Sinlge Material*`
+  
 
+<img width="1296" height="827" alt="fiori_launchpad" src="https://github.com/user-attachments/assets/b0aa1e0b-6cff-4c52-9d13-cbe18445dada" />
 
 
 

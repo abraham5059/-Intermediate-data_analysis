@@ -13,10 +13,10 @@
   and form a Data Analysis to present for upper management (i.e. the company buyer and CEO). This analysis
   will convey fullly completed product inventory in the following order;
   - Data Sources
-  - tools
+  - Tools
   - Enterprise Explanation
   - Data Procurement
-  - Reporting
+  - Data Reporting
   - Data Visualization & Dashboard
   - Presentation & Analysis
 

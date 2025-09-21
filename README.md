@@ -88,11 +88,21 @@ is as follows:
 
 
 
-*Lastly, I then query the 
+Subsequently, I then query each finished product model by manually entering each one since the SAP s/4HANA
+free trial version does now allow you to download the inventory into a file to start the spreadsheet
+development. Normally I would download or run ERP runctions to obtain the finished product model's 
+inventory in one single action, but for all intensive purposes I manually queried each into the 
+fiori launchpad function (Single Stock Material).
   
 
+<img width="1362" height="651" alt="ERP Single stock query" src="https://github.com/user-attachments/assets/03bf4b19-5a6b-4146-be5f-3bba4dd0b431" />
 
 
+
+Lastly, I ran a final stock search to proivde final details about each model's stock by the following navigation:
+`Manufacturing & Supply chain > Warehouse Management > Manage Stock`
+
+<img width="1296" height="540" alt="Stock Management query" src="https://github.com/user-attachments/assets/c52376aa-008c-46b5-ac4d-d3723520f2a5" />
 
 
 

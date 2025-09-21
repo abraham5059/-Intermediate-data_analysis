@@ -106,8 +106,16 @@ Lastly, I ran a final stock search to proivde final details about each model's s
 
 
 
+### Data Reporting:
 
 
+
+
+<img width="1248" height="748" alt="Inventory Daily Report V1" src="https://github.com/user-attachments/assets/78d96efd-dbef-44ff-a13a-19cca2472d7e" />
+
+
+To continue on with the next phase of the inventory analysis, the development of a daily inventory report was developed to
+distribute daily inventory logs about completed product in stock for upper managment to assess.
 
 
 

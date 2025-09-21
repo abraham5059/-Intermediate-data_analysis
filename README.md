@@ -11,7 +11,7 @@
 
   Run a basic inventory analysis for a fictional bicycle company (Velotics Inc.) using SAP to run inventory
   and form a Data Analysis to present for upper management (i.e. the company buyer and CEO). This analysis
-  will convey inventory in the folling order;
+  will convey fullly completed product inventory in the following order;
   - Data Sources
   - tools
   - Enterprise Explanation
@@ -54,6 +54,18 @@ Velotics Inc. produces bikes in the follwowing lines/ ranges:
 
  *As pictured, Velotics produces racing bikes, mountain bikes, cruise bikes, youth bikes, e-bikes and an in home exercise bike.
  All of these bikes have corresponding model numbers and encomapss ranges in competitive bicycle market segmets*
+
+
+*Disclaimer: For this inventory analysis, I will only cover "Fully produced product" as each product model
+ contains numerous parts and componemts that they themselves have stock/ part #'s to categorize
+ e.g. see the model part example as shown in the depiction below*
+ 
+
+<img width="782" height="456" alt="Parts:Components per model" src="https://github.com/user-attachments/assets/30f7bf06-dd98-4c69-8b42-7544b5dd5931" />
+
+
+
+
 
 
 

@@ -181,11 +181,19 @@ In this case, to view  the SAP automated overall inventory dashboard, navigate b
 <img width="1334" height="837" alt="Screen Shot 2025-09-22 at 11 14 10" src="https://github.com/user-attachments/assets/d083148f-e66d-4ce9-8b05-52d6f4e6d3fd" />
 
 
+We can interact with areas on concern for Velotics such as Overdue Materials tile:
 
 
+<img width="388" height="794" alt="Screen Shot 2025-09-22 at 11 14 31" src="https://github.com/user-attachments/assets/551f0079-e5f5-41b1-83e9-713658f98dc1" />
+
+Which if we click on it; we can see in futher detail what the overdue material is to account for current inventory stock.
 
 
+<img width="1366" height="441" alt="Screen Shot 2025-09-22 at 11 14 51" src="https://github.com/user-attachments/assets/ec14acee-82e3-4c82-a158-5d9dea3415e0" />
 
+*Here, we can see the only item that the ERP system is accounting for. 2 pruchase orders of a forklift with a window of a 7 day transit
+  period. (which may be accounted for the plant 1 US 171's inventory count once the forklifts arrive)*
+  
 
 
 

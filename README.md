@@ -30,7 +30,7 @@ website link: https://www.sap.com/products/erp/s4hana/trial.html
 ### Tools
 - SAP S/4HANA Cloud (Public Edition) - Data Procurement
 - Microsoft Excel - Data Conversion & Data cleaning
-- SAP S/4HANA Cloud -  Reporing
+- SAP S/4HANA Cloud -  Reporting
 - Microsoft Excel - Reporting
 - Tableau - Data Visualization & Dashboard
 - Mac Keynote - Presentation
@@ -131,8 +131,12 @@ Product model is replicated if there are multiple storage locations associated w
 of the same product models to further detail where exacly that inventory is at what stage of stock. For example:
 
   *MZ-FG-M525 (Mid-Range mountain bike) has 5 different stock locations: 227 peices are under QI, 3,835 are in std. storage 1
-    while 99 peices are stored in the warehouse. there are no peices that are blocked*
+    while 99 peices are stored in the warehouse. there are no peices that are blocked.*
 
+<img width="1366" height="273" alt="Screen Shot 2025-09-22 at 11 42 41" src="https://github.com/user-attachments/assets/7b4d2ed2-420b-4486-824e-43a862bdb78f" />
 
-
+*this example inventory report can be executed in the SAP fiori lauchpad query by:
+   `Manufacturing & Supply Chain > Warehouse Management > Stock *Sinlge Material* > Material > (type the model numer).`
+   
+<img width="1134" height="711" alt="Screen Shot 2025-09-22 at 11 43 05" src="https://github.com/user-attachments/assets/755fe194-44e8-4a6a-8929-74ca8f542ff1" />
 

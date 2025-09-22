@@ -127,7 +127,11 @@ This report feautures quick and basic Microsoft Excel formulations to easliy rep
 - Average Coverage of Days: `=AVERAGE(P6:P34)`   *gives the total average rate of 30 day product consumption based on current movement on all items*
   
 
+Product model is replicated if there are multiple storage locations associated with current inventory. Therefore there are multiple
+of the same product models to further detail where exacly that inventory is at what stage of stock. For example:
 
+  *MZ-FG-M525 (Mid-Range mountain bike) has 5 different stock locations: 227 peices are under QI, 3,835 are in std. storage 1
+    while 99 peices are stored in the warehouse. there are no peices that are blocked*
 
 
 

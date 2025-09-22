@@ -114,11 +114,18 @@ Lastly, I ran a final stock search to proivde final details about each model's s
 <img width="1248" height="748" alt="Inventory Daily Report V1" src="https://github.com/user-attachments/assets/78d96efd-dbef-44ff-a13a-19cca2472d7e" />
 
 
-To continue on with the next phase of the inventory analysis, the development of a daily inventory report was developed to
-distribute daily inventory logs about completed product in stock for upper managment to assess.
+To continue on with the next phase of the inventory analysis, the development of a daily inventory report was created to distribute
+daily inventory report about completed product in stock for upper managment to assess.
 
 
+<img width="1436" height="814" alt="daily inventory report" src="https://github.com/user-attachments/assets/57271044-f09c-46a1-9e71-eabd1ff397b7" />
 
+This report feautures quick and basic Microsoft Excel formulations to easliy report inventory. such as:
+
+- Availible Unrestricted total: `=SUM(F36-G36-H36-J36)` *for the total sellable stock in inventory*
+- Pending Stock total: `=SUM(G36+H36+J36)`   *includes quality inspection, retunrs and blocked stock (uncertainty of stock)*
+- Average Coverage of Days: `=AVERAGE(P6:P34)`   *gives the total average rate of 30 day product consumption based on current movement on all items*
+  
 
 
 

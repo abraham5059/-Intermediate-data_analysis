@@ -170,8 +170,15 @@ product needs order raw material consideration in order to meet supply, which ca
 
 
 
+SAP does provide built-in interative dashboards and data visualization as part of an ERP system.
+
+In this case, to view  the SAP automated overall inventory dashboard, navigate by the following:
+`Manufacturing & Supply Chain > Warehouse Management > Overview Stock Management > Plant (Select "Plant 1 US (1710)" > Go`
+
+*which produces the following interactive live dashboard*
 
 
+<img width="1334" height="837" alt="Screen Shot 2025-09-22 at 11 14 10" src="https://github.com/user-attachments/assets/d083148f-e66d-4ce9-8b05-52d6f4e6d3fd" />
 
 
 

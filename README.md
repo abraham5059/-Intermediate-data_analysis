@@ -120,7 +120,7 @@ daily inventory report about completed product in stock for upper managment to a
 
 <img width="1436" height="814" alt="daily inventory report" src="https://github.com/user-attachments/assets/57271044-f09c-46a1-9e71-eabd1ff397b7" />
 
-This report feautures quick and basic Microsoft Excel formulations to easliy report inventory. such as:
+This report feautures quick Microsoft Excel formulations to easliy report inventory. such as:
 
 - Availible Unrestricted total: `=SUM(F36-G36-H36-J36)` *for the total sellable stock in inventory*
 - Pending Stock total: `=SUM(G36+H36+J36)`   *includes quality inspection, retunrs and blocked stock (uncertainty of stock)*
@@ -140,3 +140,34 @@ of the same product models to further detail where exacly that inventory is at w
    
 <img width="1134" height="711" alt="Screen Shot 2025-09-22 at 11 43 05" src="https://github.com/user-attachments/assets/755fe194-44e8-4a6a-8929-74ca8f542ff1" />
 
+
+
+Lastly, this report also features what exacly needs to be orderd/considered given pruchasing material for finished product.
+Such as formulating an if statement before each product model :
+  `=IF(AND(F6<=0, E6="Std. storage 1 171A",P6>0), "Yes", "No")` 
+
+
+The condition is as follows:
+- `...f6<=0, ...` Unrestricted-Use Stock is less than or equal to 0
+- `... E6="Std. storage 1 171A", ...` only for stock in storage 171A is used
+- `...P6>0 ...` the 30-Day supply coverage needs to be greater than 0. optimized for stocking moving product
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

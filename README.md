@@ -154,7 +154,12 @@ The condition is as follows:
 
 
 
+<img width="1134" height="558" alt="Order conditional result" src="https://github.com/user-attachments/assets/3497f3b8-5f1a-43df-952e-4cd51f68c7c9" />
 
+
+*therfore, after applying the formula parameters to determine which finished product needs order prioriry to balance product movement.*
+*Here, the result is model MZ-FG-26EMN (Mountain E-Bike) with 0 Unrestricted stock at a 3.57 consumption rate. Therefore, the finished
+product needs order raw material consideration in order to meet supply, which can affect sales and procurement*
 
 
 

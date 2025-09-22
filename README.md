@@ -196,6 +196,10 @@ Which if we click on it; we can see in futher detail what the overdue material i
   
 
 
+Another data visualization that can be used for the inventory analysis would be to create pivot tables and or data visualizations within the 
+daily FERT inventory report. That way when the report is sent to upper management, they can visually assess the inventory for the day and make
+key decisions to help with product movement.
+
 
 
 

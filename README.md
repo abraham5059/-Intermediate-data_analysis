@@ -196,10 +196,17 @@ Which if we click on it; we can see in futher detail what the overdue material i
   
 
 
-Another data visualization that can be used for the inventory analysis would be to create pivot tables and or data visualizations within the 
+Other visual graphics that can be used for the inventory analysis would be to create pivot tables and or data visualizations within the 
 daily FERT inventory report. That way when the report is sent to upper management, they can visually assess the inventory for the day and make
 key decisions to help with product movement.
 
+
+
+<img width="1084" height="828" alt="Pivot Tables and Pie Chart Vizuals in Report" src="https://github.com/user-attachments/assets/1aedee9d-75d3-470d-8d16-0b92790cd5e1" />
+
+
+*Here, I have developed key visuals within the report by the use of pivot tables and a pie chart that (like a basic report specific 
+dashboard) help managment make quick and easy daily decisions when viewing the inventory report in the same workbook*
 
 
 

@@ -206,7 +206,11 @@ key decisions to help with product movement.
 
 
 *Here, I have developed key visuals within the report by the use of pivot tables and a pie chart that (like a basic report specific 
-dashboard) help managment make quick and easy daily decisions when viewing the inventory report in the same workbook*
+dashboard) help managment make quick and easy daily decisions when viewing the inventory report in the same workbook.*
+
+Next, the use of the pivot tables and data visualization within the data inventory report can be used towards the data presentation.
+
+
 
 
 

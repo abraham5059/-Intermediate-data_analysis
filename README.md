@@ -32,7 +32,7 @@ website link: https://www.sap.com/products/erp/s4hana/trial.html
 - Microsoft Excel - Data Conversion & Data cleaning
 - SAP S/4HANA Cloud -  Reporting
 - Microsoft Excel - Reporting
-- Tableau - Data Visualization & Dashboard
+- Microsoft Power BI- Data Visualization & Dashboard
 - Mac Keynote - Presentation
 - Microsoft Excel - Final Presentaion & Analysis
 
@@ -212,9 +212,37 @@ Next, the use of the pivot tables and data visualization within the data invento
 
 
 
+After completing the Microsoft Excel visuals, I then proceed towards creating a Microsoft Power BI Dashboard/ Visualizations.
+
+- 1st. when launching Power BI, the starting menu asks for a data source to build and create the dashboard.
+- 2nd. load the data into the data source reciprocal in Power BI *(in this particular case, I had to use the online paid platform since
+        I don't have business or university credentials to use the app freely. Threfore, OneDrive and other Microsoft 365 services were
+        out of my reach. I had to copy/paste the Veltoics FERT Daily Inventory spreadsheet to start the Power BI Data Visualization session.)*
+<img width="1503" height="611" alt="inital loading screen" src="https://github.com/user-attachments/assets/a8276eb4-90c5-4e4c-9254-c43d25b76fd8" />
+
+  
+- 3rd. ensure the data looks good and clened to base analytics for the dashboard. See image below:
+<img width="1047" height="758" alt="Data loading in Power BI" src="https://github.com/user-attachments/assets/48ff4382-b4e0-4577-a9b4-28c9177e68d9" />
 
 
 
+- 4th. Auto-Create the interactive dashboard once the spreadsheet is loaded into Power BI and begin to Visualize.
+
+  
+<img width="1624" height="801" alt="inital Summary" src="https://github.com/user-attachments/assets/4258fdd4-2c1a-4620-b926-97fecd42d797" />
+
+
+Once the interactive dashboard workspace has been created, I then apply subsequent filters within the dasboard to produce meaningful 
+visualizations. The purpose of using Power Bi after Excel is to futher enchance the data and apply interactive visualizations for upper
+managment, staff and inventory stakeholders to explore the Velotics day inventory at depth. 
+
+*For example, we can see total coverage of days by product model when applying the data filters of Plant, Product Model & Blockes Stock*
+
+<img width="1501" height="705" alt="Summary Overview Filtering" src="https://github.com/user-attachments/assets/92a090eb-e92e-4b0e-b28f-d2aa73c00672" />
+
+*here we can see that MZ-FG-EBO1 (Standard E-Bike) , MZ-FG-M525 (Mid-Range Mountain Bike), & MZ-FG-26XR1 (In-Home Exercise Bike) account 
+for the majorty of 30-day stock coverage. Anything below 5 days would be highly considered to increase stock of finsihed product in 
+respect to keeping inventory levels constant without over producing stock that doesn't sell in high volumes.* 
 
 
 

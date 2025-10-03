@@ -33,7 +33,6 @@ website link: https://www.sap.com/products/erp/s4hana/trial.html
 - SAP S/4HANA Cloud -  Reporting
 - Microsoft Excel - Reporting
 - Microsoft Power BI- Data Visualization & Dashboard
-- Mac Keynote - Presentation
 - Microsoft Excel - Final Presentaion & Analysis
 
 
@@ -233,10 +232,10 @@ After completing the Microsoft Excel visuals, I then proceed towards creating a 
 
 
 Once the interactive dashboard workspace has been created, I then apply subsequent filters within the dasboard to produce meaningful 
-visualizations. The purpose of using Power Bi after Excel is to futher enchance the data and apply interactive visualizations for upper
+visualizations. The purpose of using Power BI after Excel is to futher enchance the data and apply interactive visualizations for upper
 managment, staff and inventory stakeholders to explore the Velotics day inventory at depth. 
 
-*For example, we can see total coverage of days by product model when applying the data filters of Plant, Product Model & Blockes Stock*
+*For example, we can see total coverage of days by product model when applying the data filters of Plant, Product Model & Blocked Stock*
 
 <img width="1501" height="705" alt="Summary Overview Filtering" src="https://github.com/user-attachments/assets/92a090eb-e92e-4b0e-b28f-d2aa73c00672" />
 
@@ -245,12 +244,23 @@ for the majorty of 30-day stock coverage. Anything below 5 days would be highly 
 respect to keeping inventory levels constant without over producing stock that doesn't sell in high volumes.* 
 
 
+*Another example would be to see all total stock of locations other than the most popular location i.e. Std. Storage 1 171A*
+*Simply click + adjust the nessesary parameters within the data visualization while also allowing highlighted views*
+
+<img width="931" height="491" alt="interacting with dashboard" src="https://github.com/user-attachments/assets/819edfdb-b432-4b39-b088-a5fbd4b1d520" />
+
+Lastly, the dashboard is created and will be shared within Veltoics Inc. to related memebers of the inventory analysis via Mikcrosoft 
+Outlook Mail/Teams. 
+
+<img width="1449" height="794" alt="Screen Shot 2025-10-03 at 14 45 25" src="https://github.com/user-attachments/assets/22d940e7-abaf-4f31-ad9c-c67674abad37" />
 
 
 
 
+### Final Presentation & Analysis : 
 
-
+To continue on with the last part of the iventory analysis process, a presentation about the data findings will be created by
+Microsoft PowerPoint.
 
 
 

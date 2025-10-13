@@ -263,6 +263,26 @@ To continue on with the last part of the iventory analysis process, a presentati
 Microsoft PowerPoint.
 
 
+Upon presenation development additional data insights were discovered.
+Then, gathering both the FERT Daily Inventory Report & Microsoft Power BI visuals + dashboard is 
+collected and presented in an easy to understand format. Therfore, making it easy to interpet the data and form
+an inventory strategy based on the analysis. 
+
+*e.g. by presenting the data in the following depictions*
+
+
+
+
+
+
+
+
+
+PDF converted file due to size constraints:  [Inventory Analysis Presentation.pdf](https://github.com/user-attachments/files/22876091/Inventory.Analysis.Presentation.pdf)
+
+
+### Concluison: 
+
 
 
   

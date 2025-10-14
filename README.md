@@ -270,13 +270,26 @@ an inventory strategy based on the analysis.
 
 *e.g. by presenting the data in the following depictions*
 
+-*for example, counting which product models need more works orders becasue they have high inventory priority.*
+
+
+<img width="1006" height="523" alt="Screen Shot 2025-10-14 at 11 51 14" src="https://github.com/user-attachments/assets/993ac33d-2c08-4a26-9f0d-d3a60e0cff69" />
 
 
 
+-*another example would be figuring out how much fully completed inventory is being stored in Std. Storage while also
+  knowing what other storage locations have what amnounts of inventory*
+  
+<img width="1006" height="523" alt="Screen Shot 2025-10-14 at 11 51 46" src="https://github.com/user-attachments/assets/84a0d894-5a46-4d19-93e6-a551554537d0" />
+
+
+<img width="319" height="281" alt="Screen Shot 2025-10-12 at 17 01 34" src="https://github.com/user-attachments/assets/4de9e341-04c0-4079-be2e-ba3babb553c8" />
 
 
 
+After all the KPI's have been accounted for, they are formally presented/ shared to stakeholders as the Day's Inventory Analysis.
 
+For the sake of this GitHub data project, I had to convert the PPTX. file into a PDF due to file size exceeding 23mb.
 
 PDF converted file due to size constraints:  [Inventory Analysis Presentation.pdf](https://github.com/user-attachments/files/22876091/Inventory.Analysis.Presentation.pdf)
 
@@ -284,5 +297,16 @@ PDF converted file due to size constraints:  [Inventory Analysis Presentation.pd
 ### Concluison: 
 
 
+<img width="585" height="324" alt="Screen Shot 2025-10-07 at 13 16 30" src="https://github.com/user-attachments/assets/5dcb9e23-e754-47d7-a254-9d601851b373" />
 
+
+
+
+- MZ-FG-26EMN (Mountain E-Bike) has the highest inventory priority.
+- Inventory allocation should be focuced on that model to ensure supply demand while respecting product movement.
+- Most of the blocked stock is MZ-FG-26ECR (Cruise E-Bike) at 40 units.
+- The enitre US 1 1710  Plants' completed product bikes inventory sits at around a 16-day range of coverage average.
+- Out of 88,083 unrestricted-use units in stock, 46 units are blocked, 11,438 units are under QI & no returned product reported.
+
+  
   

@@ -310,5 +310,6 @@ PDF converted file due to size constraints:  [Inventory Analysis Presentation.pd
 ### Threfore, using an intermediate inventory analysis with the given parameters & data tools helps stakeholders and others make better inventory decisions within Velotics Inc.'s productivity.
 
 
-## Thank you.
-  
+### Thank you.
+
+
